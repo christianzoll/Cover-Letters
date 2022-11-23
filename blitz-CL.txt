@@ -1,6 +1,6 @@
 Hello,
 
-	I’m Christian, a Full-Stack Software Engineer who's recently been affected by a layoff with my previous employer. I’ve been an engineer for two years working with primarily the React, JavaScript, Node, Typescript and MongoDB environment of libraries and frameworks. I like use football statistics to practice mental math, wail into a microphone while strumming a guitar, and practice code to keep my mind sharp. And, I would love to have a conversation about working together. Please feel free to take a look at some of my links and contact me about any more information that could be of use to you. Thank you.
+	I’m Christian, a Full-Stack Software Engineer who's recently been affected by a layoff with my previous employer. I’ve been an engineer for two years working with primarily the React, JavaScript, Node, Typescript and MongoDB environment of libraries and frameworks. I like to use football statistics to practice mental math, wail into a microphone while strumming a guitar, and practice code to keep my mind sharp. And, I would love to have a conversation about working together. Please feel free to take a look at my links and contact me about any more information that could be of use to you. Thank you.
 
 Sincerely, 
 
