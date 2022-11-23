@@ -1,27 +1,15 @@
-Hello, I've recently returned home to New Mexico after a layoff with my last employer. JavaScript and it's accompanying technologies are what I've made a career in and I would like to continue that with YOUR COMPANY. I like to use football statistics to practice mental math, belt while strumming a guitar, and practice code to keep my mind nimble. And, I would love to have a conversation about working together. Please feel free to contact me about any more information that could be of use to you. 
-
 Hello,
 
-<<<<<<< HEAD
-	I’m Christian, an IT Specialist who's recently been affected by a layoff with my previous employer. I’ve been a specialist for two years working with software in the React, JavaScript, Node, Typescript and MongoDB environment of libraries and frameworks. I like to imagine that I'm Master Chief when exercising, use football statistics to practice mental math, and practice code to keep my mind sharp. And, I would love to have a conversation about working together. Please feel free to take a look at some of my links and contact me about any more information that could be of use to you. Thank you.
-=======
-	I’m Christian, a Shopify Developer. I’m recently affected by my previous company’s layoff and I’m looking for who to continue my career with. I’ve worked with Shopify for various eCommerce companies in technical and marketing capacities and would like to bring that experience to Zivi Apparel. I like to imagine I'm Master Chief when I exercise, use football statistics to practice mental math,  and practice code to keep my mind sharp. And, I would love to have a conversation about working together. Please feel free to take a look at some of my links and contact me about any more information that could be of use to you. Thank you.
->>>>>>> parent of 79ab686 (Odysee - Software Security Engineer)
+	I’m Christian, a Full-Stack Software Engineer who's recently been affected by a layoff with my previous employer. I’ve been an engineer for two years working with primarily the React, JavaScript, Node, Typescript and MongoDB environment of libraries and frameworks. I like use football statistics to practice mental math, wail into a microphone while strumming a guitar, and practice code to keep my mind sharp. And, I would love to have a conversation about working together. Please feel free to take a look at some of my links and contact me about any more information that could be of use to you. Thank you.
 
 Sincerely, 
 
 Hans Christian Zoll
-Software Developer
-<<<<<<< HEAD
+Software Engineer
 Albuquerque, NM
-c:505.415.3551
-e:christianzoll@yahoo.com
-=======
-505.415.3551
-christianzoll@yahoo.com
->>>>>>> parent of 79ab686 (Odysee - Software Security Engineer)
+c: 505.415.3551
+e: christianzoll@yahoo.com
 
 https://linkedin.com/in/hcz 
 https://github.com/christianzoll
 https://hanschristianzoll.com
-
