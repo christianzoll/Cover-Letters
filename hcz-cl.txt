@@ -1,0 +1,16 @@
+Hello,
+
+	I’m Christian, a Full-Stack Developer who's recently been affected by a layoff with my previous employer. I’ve been a developer for two years working with primarily the React, JavaScript, Node, HTML, CSS, Typescript and MongoDB environment of libraries and frameworks. I like to use football statistics to practice mental math, wail into a microphone while strumming a guitar, and practice code to keep my brain sharp. And, I would love to have a conversation about working together. Please feel free to take a look at my links and contact me about any more information that could be of use in your consideration.
+Thank you.
+
+Sincerely, 
+
+Hans Christian Zoll
+Full-Stack Developer
+Albuquerque, NM
+c: 505.415.3551
+e: christianzoll@yahoo.com
+
+https://linkedin.com/in/hcz 
+https://github.com/christianzoll
+https://hanschristianzoll.com
